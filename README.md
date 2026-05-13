@@ -1,2 +1,3 @@
 # Xiaomi-Universal-Debloater
-Use at your own risk
+Make sure you have ADB tools installed and USB debugging is enabled.
+In Linux, grant execute permission to xiaomi-debloater_universal.sh using chmod.
