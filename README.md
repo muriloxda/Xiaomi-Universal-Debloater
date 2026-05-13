@@ -1,2 +1,2 @@
 # Xiaomi-Universal-Debloater
-A universal debloater for xiaomi
+Use at your own risk
